@@ -1,0 +1,8 @@
+E:\.Net\2023\Easyenv console\bin\Debug\Easyenv console.exe.config
+E:\.Net\2023\Easyenv console\bin\Debug\Easyenv console.exe
+E:\.Net\2023\Easyenv console\bin\Debug\Easyenv console.pdb
+E:\.Net\2023\Easyenv console\obj\Debug\Easyenv console.csproj.AssemblyReference.cache
+E:\.Net\2023\Easyenv console\obj\Debug\Easyenv console.csproj.SuggestedBindingRedirects.cache
+E:\.Net\2023\Easyenv console\obj\Debug\Easyenv console.csproj.CoreCompileInputs.cache
+E:\.Net\2023\Easyenv console\obj\Debug\Easyenv console.exe
+E:\.Net\2023\Easyenv console\obj\Debug\Easyenv console.pdb
